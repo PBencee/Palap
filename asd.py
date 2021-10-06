@@ -1,0 +1,5 @@
+vnev = input ('Vezetek Neved = ')
+knev = input ('Kereszt Neved = ')
+kor = int (input('Hany Eves Vagy ='))
+kor = (2021 - kor)
+print ('Szia', vnev, knev, 'aki',kor,'ben született')
